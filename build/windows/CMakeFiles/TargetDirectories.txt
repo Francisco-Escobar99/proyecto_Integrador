@@ -1,0 +1,10 @@
+C:/VISUAL/9no/proyecto_Integrador-master/build/windows/CMakeFiles/INSTALL.dir
+C:/VISUAL/9no/proyecto_Integrador-master/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/VISUAL/9no/proyecto_Integrador-master/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/VISUAL/9no/proyecto_Integrador-master/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/VISUAL/9no/proyecto_Integrador-master/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/VISUAL/9no/proyecto_Integrador-master/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/VISUAL/9no/proyecto_Integrador-master/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/VISUAL/9no/proyecto_Integrador-master/build/windows/runner/CMakeFiles/app_proyecto.dir
+C:/VISUAL/9no/proyecto_Integrador-master/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/VISUAL/9no/proyecto_Integrador-master/build/windows/runner/CMakeFiles/ALL_BUILD.dir

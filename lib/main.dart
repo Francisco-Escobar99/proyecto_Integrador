@@ -1,11 +1,13 @@
-import 'package:flutter/material.dart';
-import 'package:app_proyecto/presentation/pages/login/login_welcome.dart';
+               import 'package:flutter/material.dart';
+import 'package:app_proyecto/features/presentation/pages/login/login_welcome.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
